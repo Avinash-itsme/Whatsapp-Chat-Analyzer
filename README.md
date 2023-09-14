@@ -1,7 +1,7 @@
 
 # Whatsapp chat sentiment analyzer
 
-After battling numerous errors, finally completed making Whatsapp Chat Sentiment analyzer, my first data analysis project. It is based on SentimentIntensityAnalyzer class from "nltk.sentiment.vader" module. If you ever wonder who is the most positive person in your whatsapp group of let say 200+ or less members then this is what you are looking for.
+After battling numerous errors, finally completed making Whatsapp Chat Sentiment analyzer, my first data analysis project. It is based on SentimentIntensityAnalyzer class from "nltk.sentiment" module. If you ever wonder who is the most positive person in your whatsapp group of let say 200+ or less members then this is what you are looking for.
 Not only posititve user, you can see the following results on overall group & individual as well :
 
 - Monthly Activity map(Positive, Neutral, Negative)
